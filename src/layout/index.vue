@@ -89,5 +89,6 @@ export default {
 
   .mobile .fixed-header {
     width: 100%;
+    height：568px;
   }
 </style>
